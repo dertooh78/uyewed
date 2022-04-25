@@ -1,5 +1,5 @@
 {
-  "name": "le",
+  "name": "vlessHeroku",
   "description": "Deploy vless on Heroku.",
   "keywords": [
     "vless"
@@ -10,7 +10,7 @@
       "value": "2df39398-6e14-452a-8cfd-eb5c1c973522"
     }
   },
-  "website": "https://github.com/dertooh78/",
+  "website": "https://github.com/dertooh78",
   "repository": "https://github.com/dertooh78/uyewed",
   "stack": "container"
 }
