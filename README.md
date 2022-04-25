@@ -1,5 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2F
-dertooh78%2Fuyewed)
+[![Deploy](https://dashboard.heroku.com/new?template=https://github.com/dertooh78/uyewed)
 
 
 
