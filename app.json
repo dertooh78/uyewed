@@ -1,7 +1,6 @@
 // serverless 部署使用
 const WebFramework = require('@midwayjs/koa').Framework
 const { Bootstrap } = require('@midwayjs/bootstrap')
-
 module.exports = async () => {
   // 加载框架并执行
   await Bootstrap.run()
