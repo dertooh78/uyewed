@@ -1,22 +1,16 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
-    "env": {
-        "ID": {
-            "description": "UUID",
-            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
-        },
-        "AID": {
-            "description": "AlterID",
-            "value": "64"
-        },
-        "WSPATH": {
-            "description": "WebSocket Path",
-            "value": "/"
-        }
-    },
-    "website": "https://ibcl.us/dertooh78/uyewed",
-    "repository": "https://github.com/dertooh78/uyewed",
-    "stack": "container"
+  "name": "vlessHeroku",
+  "description": "Deploy vless on Heroku.",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "2df39398-6e14-452a-8cfd-eb5c1c973522"
+    }
+  },
+  "website": "https://github.com/dertooh78/uyewed",
+  "repository": "https://github.com/dertooh78/uyewed",
+  "stack": "container"
 }
